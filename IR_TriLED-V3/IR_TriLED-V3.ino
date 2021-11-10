@@ -1,7 +1,7 @@
 /*      
 *  IR read codes     
 *  by Hanie kiani     
-*  https://electropeak.com/learn/        
+*  Edited by Todd Kelley to update to IRremote  Version 3       
 */ 
     
 #include <IRremote.h>     
